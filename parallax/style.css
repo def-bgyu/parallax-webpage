@@ -1,0 +1,50 @@
+*{
+    font-family: 'Hubballi', cursive;
+    text-align:center;
+    vertical-align: middle;
+    padding:0px;
+    margin:0px;
+}
+
+header{
+height: auto;
+width: auto;
+background-color: oldlace;
+background-attachment: sticky;
+font-size: large;
+
+}
+ .parallax
+{
+background-image: url("https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/io19_designguide_hero_C_2x1.png");
+min-height: 300px;
+
+background-attachment:fixed ;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+/* .parallax2
+{
+background-image: url("google2.0.0.jpg");
+min-height: 300px;
+
+background-attachment:fixed ;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+} */
+
+
+.textbox
+{
+    text-align: justify;
+    vertical-align: middle;
+    font-size: 30px;
+ /* text-align: center; */
+ border-style: solid,yellow;
+ border-radius: 10px;
+ height: auto;
+ padding: 10px;
+ background-color: #F8F0F3 ,transparent;
+}
